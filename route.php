@@ -18,7 +18,7 @@ $routes =
 // keep remmeber that everything will  be handled before we call it
 $routes_sub_routes = [
 	'home' => [
-		"users" => ['GET','POST']
+		"users" => ['POST']
 	]
 ]
 

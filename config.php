@@ -9,8 +9,9 @@ define("FILE",__FILE__);
 
 
 
-// start folder for the project
-$startup_endpoint = 3;
+$startup_dir = "api/";
+
+
 
 
 function env($env_name){
